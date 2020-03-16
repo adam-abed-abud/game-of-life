@@ -1,6 +1,6 @@
-# Weather data monitoring
+# Conway's game of life
 
-#### Python implementation of Conway's game of lifef
+#### Python implementation of Conway's game of life
 
 
  - Author: **Adam Abed Abud**
