@@ -30,13 +30,3 @@ License
 
 **Free Software!** 
 For the benefit of everyone.
-
-
-
-
-
-
-
-
-
-# game-of-life
